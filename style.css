@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 .center {
     margin: 0 auto;
 }
@@ -19,34 +23,64 @@
     0% {
         color: blue;
     }
-    10% {
+    5% {
         color: #8e44ad;
     }
-    20% {
+    10% {
         color: #1abc9c;
     }
-    30% {
+    15% {
         color: #d35400;
     }
-    40% {
+    20% {
         color: blue;
     }
-    50% {
+    25% {
         color: #34495e;
     }
-    60% {
+    30% {
         color: blue;
     }
-    70% {
+    35% {
         color: #2980b9;
     }
-    80% {
+    40% {
         color: #f1c40f;
     }
-    90% {
+    45% {
         color: #2980b9;
     }
-    100% {
+    50% {
         color: pink;
+    }
+    55% {
+        color: skyblue;
+    }
+    60% {
+        color: lightcoral;
+    }
+    65% {
+        color: lime;
+    }
+    70% {
+        color: maroon;
+    }
+    75% {
+        color: magenta;
+    }
+    80% {
+        color: cyan;
+    }
+    85% {
+        color: turquoise;
+    }
+    90% {
+        color: brown;
+    }
+    95% {
+        color: silver;
+    }
+    100% {
+        color: peachpuff;
     }
 }
